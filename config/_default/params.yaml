@@ -17,10 +17,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '임성혁의 소개 페이지'
-    description: '임성혁을 소개하는 페이지입니다.'
+    org_name: '백정렬의 소개 페이지'
+    description: '백정렬을 소개하는 페이지입니다.'
     twitter: ''
-    keywords: ['전북대학교', '전북대', '임성혁', '전북대 임성혁']
+    keywords: ['전북대학교', '전북대', '백정렬', '전북대 백정렬']
     og_image: '../assets/media/icon.png'
   analytics:
     google_analytics: ''

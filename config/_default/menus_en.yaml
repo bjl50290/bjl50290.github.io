@@ -31,16 +31,16 @@ main:
     weight: 22
 
   - name: Interests
-    url: attract
+    url: blog
     weight: 30
-  
+
   - parent: Interests
     name: Future
-    url: attract/future
+    url: blog/study
     weight: 31
   - parent: Interests
     name: Stocks
-    url: attract/stocks
+    url: blog/life
     weight: 32
 
   - name: Projects

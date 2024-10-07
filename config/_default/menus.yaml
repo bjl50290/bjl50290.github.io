@@ -7,10 +7,9 @@ main:
   - name: Introduction
     url: introduce
     weight: 10
-
   - parent: Introduction
     name: Profile
-    url: author/Seonghyuk-Lim/
+    url: authors/admin
     weight: 11
   - parent: Introduction
     name: History
@@ -20,7 +19,6 @@ main:
   - name: Activities
     url: activity
     weight: 20
-
   - parent: Activities
     name: Laboratory
     url: activity/lab
@@ -30,36 +28,23 @@ main:
     url: activity/experience
     weight: 22
 
-  - name: Interests
-    url: attract
-    weight: 30
-  
-  - parent: Interests
-    name: Future
-    url: attract/future
-    weight: 31
-  - parent: Interests
-    name: Stocks
-    url: attract/stocks
-    weight: 32
 
   - name: Projects
     url: project
+    weight: 30
+
+  - name: Blog
+    url: blog
     weight: 40
-
-  - name: Hobbies
-    url: hobbies
-    weight: 60
-
-  - parent: Hobbies
-    name: Concert Watching
-    url: hobbies/concert
-    weight: 61
-  - parent: Hobbies
-    name: Soccer Watching
-    url: hobbies/soccer
-    weight: 62
+  - parent: Blog
+    name: Study
+    url: blog/study
+    weight: 41
+  - parent: Blog
+    name: Life
+    url: blog/life
+    weight: 42
 
   - name: Contact
     url: contact
-    weight: 70
+    weight: 50
