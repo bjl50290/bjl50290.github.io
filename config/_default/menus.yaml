@@ -5,13 +5,8 @@
 
 main:
   - name: Introduction
-    url: introduce
+    url: authors/백정렬
     weight: 10
-  - parent: Introduction
-    name: Profile
-    url: authors/admin
-    weight: 11
-
 
   - name: Experience
     url: activity

@@ -9,7 +9,7 @@ sections:
     id: about
     content:
       title: ''
-      username: 백정렬
+      username: admin
     design:
       background:
         image:
