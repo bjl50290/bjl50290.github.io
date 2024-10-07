@@ -16,8 +16,12 @@ main:
     url: experience/education
     weight: 21
   - parent: Experience
-    name: work
+    name: Work
     url: experience/work
+    weight: 22
+  - parent: Experience
+    name: Awards
+    url: experience/awards
     weight: 22
 
 
