@@ -1,0 +1,15 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: justify;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+.cta-group button:hover, 
+.cta-group a:hover {
+  background-color: red;
+  color: white; /* 버튼 텍스트 색상도 흰색으로 변경 */
+}

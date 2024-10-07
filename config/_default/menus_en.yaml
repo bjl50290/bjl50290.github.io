@@ -1,0 +1,65 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Introduction
+    url: introduce
+    weight: 10
+
+  - parent: Introduction
+    name: Profile
+    url: author/Seonghyuk-Lim/
+    weight: 11
+  - parent: Introduction
+    name: History
+    url: introduce/life
+    weight: 12
+
+  - name: Activities
+    url: activity
+    weight: 20
+
+  - parent: Activities
+    name: Laboratory
+    url: activity/lab
+    weight: 21
+  - parent: Activities
+    name: Experience
+    url: activity/experience
+    weight: 22
+
+  - name: Interests
+    url: attract
+    weight: 30
+  
+  - parent: Interests
+    name: Future
+    url: attract/future
+    weight: 31
+  - parent: Interests
+    name: Stocks
+    url: attract/stocks
+    weight: 32
+
+  - name: Projects
+    url: project
+    weight: 40
+
+  - name: Hobbies
+    url: hobbies
+    weight: 60
+
+  - parent: Hobbies
+    name: Concert Watching
+    url: hobbies/concert
+    weight: 61
+  - parent: Hobbies
+    name: Soccer Watching
+    url: hobbies/soccer
+    weight: 62
+
+  - name: Contact
+    url: contact
+    weight: 70
