@@ -11,26 +11,23 @@ main:
     name: Profile
     url: authors/admin
     weight: 11
-  - parent: Introduction
-    name: History
-    url: introduce/life
-    weight: 12
 
-  - name: Activities
+
+  - name: Experience
     url: activity
     weight: 20
-  - parent: Activities
-    name: Laboratory
-    url: activity/lab
+  - parent: Experience
+    name: Educations
+    url: experience/education
     weight: 21
-  - parent: Activities
-    name: Experience
-    url: activity/experience
+  - parent: Experience
+    name: work
+    url: experience/work
     weight: 22
 
 
   - name: Projects
-    url: project
+    url: project/
     weight: 30
 
   - name: Blog
