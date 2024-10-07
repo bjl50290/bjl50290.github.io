@@ -31,7 +31,6 @@ sections:
 
   - block: experience
     content:
-      title: 활동 및 연혁
       items:
         - title: 주식회사 디프리
           date_start: '2024-01-01'
