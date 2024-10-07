@@ -26,10 +26,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 저를 소개하는 페이지입니다. 간단한 소개와 함께 제가 진행한 활동들을 첨부하였습니다.
 
-interests:
-  - 데이터사이언스 및 인공지능
-  - 대안 데이터를 활용한 투자 전략
-  - 기타 세상의 흥미로운 것들
+# Custom field for job experience
+jobs:
+  - title: 데이터사이언스 및 인공지능 관련 프로젝트 수행
+    company: 주식회사 디프리
+    date: '2022 - Present'
+  - title: 대안 데이터를 활용한 투자 전략 개발
+    company: 개인 프로젝트
+    date: '2021 - Present'
 
 education:
   courses:
