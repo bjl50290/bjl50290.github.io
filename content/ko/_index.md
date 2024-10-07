@@ -10,34 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your profile text from `authors/admin/_index.md`?
-      text:
 
-        
-  - block: about.biography
-    id: about
-    content:
-      title: ''
-      username: admin
-    design:
-      background:
-        image:
-          filename: bg.jpg
-          size: cover
-          position: center
-          parallax: true
-          overlay: # 이미지 위에 투명도 레이어 적용
-            color: '#000000'  # 검정색
-            opacity: 0.1     # % 투명도
-          height: 70%
-      container: # 컨테이너 크기 조절
-        width: 70%  # 너비를 70%로 설정
-        max-width: 1200px  # 최대 너비를 1200px로 설정
-        padding: 20px  # 내부 여백 조정
-        margin: 0 auto  # 가운데 정렬
-    text_overlay: # 텍스트 오버레이
-      align: center
-      color: '#ffffff'  # 흰색 텍스트
 
   - block: experience
     content:
