@@ -12,8 +12,7 @@ sections:
       username: admin
       # Override your profile text from `authors/admin/_index.md`?
       text:
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-        {style="font-size: 1.2rem; color: #FFB76B;} 
+
         
   - block: about.biography
     id: about
