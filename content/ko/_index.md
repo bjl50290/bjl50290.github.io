@@ -13,13 +13,14 @@ sections:
     design:
       background:
         image:
-          filename: cover.jpg
+          filename: bg.jpg
           size: cover
           position: center
           parallax: true
           overlay: # 이미지 위에 투명도 레이어 적용
             color: '#000000'  # 검정색
             opacity: 0.1     # % 투명도
+          height: 70%
       container: # 컨테이너 크기 조절
         width: 70%  # 너비를 70%로 설정
         max-width: 1200px  # 최대 너비를 1200px로 설정
