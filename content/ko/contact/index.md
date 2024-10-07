@@ -7,24 +7,19 @@ type: landing
 sections:
   - block: contact
     content:
-      title: 찾아오는 길
-      text: |-
-        저에게 사무실이 있지는 않지만, 저를 찾아오거나 저에게 연락을 주실 방법은 무궁무진합니다.
-        대부분 공과대학 7호관에 있거든요. 아래 정보를 참고해주세요. 감사합니다.
-      email: castle_h0326@jbnu.ac.kr
-      phone: 010-8111-3021
+      title: 저와 놀고 싶다면
+      email: bjl5029@gmail.com
+      phone: 010-8784-2119
       address:
-        street: 전북대학교 공과대학 7호관 626호
-        city: 전주시
-        region: 전라북도
-        postcode: '54896'
+        street: 동부로10번길 55
+        city: 대전광역시
+        postcode: '34675'
         country: 대한민국
         country_code: KO
       coordinates:
-        latitude: '35.84601324617979'
-        longitude: '127.13444961966684'
+        latitude: '36.3168'
+        longitude: '127.4582'
       directions:
-      appointment_url: 'https://calendar.google.com/calendar/u/0/r/week/2024/10/6?pli=1'
     
       # Automatically link email and phone or display as text?
       autolink: true
