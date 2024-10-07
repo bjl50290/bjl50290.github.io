@@ -21,7 +21,7 @@ main:
     weight: 22
   - parent: Experience
     name: Awards
-    url: experience/awards
+    url: accomplishments
     weight: 22
 
 
