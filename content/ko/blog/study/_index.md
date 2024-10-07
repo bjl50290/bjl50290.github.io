@@ -1,5 +1,5 @@
 ---
-title: "future"
+title: "진로"
 type: "page"
 
 view: masonry
