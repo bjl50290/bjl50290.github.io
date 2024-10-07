@@ -1,74 +1,41 @@
 ---
-title: 백정렬
-date: 2022-10-24
-
+title: Baek Jeong Ryeol
 type: landing
 
-# Full name (for SEO)
-first_name: 정렬
-last_name: 백
+sections:
+  - block: markdown
+    content:
+      title: Baek Jeong Ryeol
+      subtitle: Student and Software Engineer
+      text: |
+        ## Biography
+        I am currently studying **Computer Science and Artificial Intelligence** at **Jeonbuk National University** and working at **DPRE Co., Ltd.**. I have a strong interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**, as well as investment strategies using alternative data.
 
-# Username (this should match the folder name)
-authors:
-  - 백정렬
+        ## Interests
+        - **Data Science**, **ML**, **AI**
+        - Investment Strategies Using Alternative Data
 
-# Is this the primary user of the site?
-superuser: false
+        ## Education
+        - **BSc Computer and Artificial Intelligence**, Jeonbuk National University (2020 - Present)
+          - Courses included:
+            - Computer Science
+            - Machine Learning & Artificial Intelligence
+            - Various interesting subjects
+        - **Data Science Bootcamp**, Euclidsoft Co., Ltd. (Aug 2022 - Jan 2023)
 
-# Role/position
-role: 학생
+        ## Work Experience
+        - **Software Engineer**, DPRE Co., Ltd. (2024 - Present)
+        - **Legal Part**, Hiconsy Co., Ltd. (Jan 2020 - Mar 2021)
 
-# Organizations/Affiliations
-organizations:
-  - name: 전북대학교
-    url: 'https://www.jbnu.ac.kr/kor'
-  - name: 주식회사 디프리
-    url: 'http://dpre.co.kr/'
+        ## Skills
+        - **Python**: 80%
+        - **PyTorch**: 60%
+        - **C++**: 40%
 
-# Short bio (displayed in user profile at end of posts)
-bio: 저를 소개하는 페이지입니다. 간단한 소개와 함께 제가 진행한 활동들을 첨부하였습니다.
+        ## Languages
+        - **Korean**: 100%
+        - **English**: 50%
 
-interests:
-  - 데이터사이언스 및 인공지능
-  - 대안 데이터를 활용한 투자 전략
-  - 기타 세상의 흥미로운 것들
-
-education:
-  courses:
-    - course: it정보공학과(재학)
-      institution: 전북대학교 컴퓨터인공지능학부
-      year: 2020
-    - course: 대전가오고등학교(졸업)
-      institution: 대전가오고등학교
-      year: 2016
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'bjl5029@gmail.com'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/bjl5029
-  - icon: cv
-    icon_pack: ai
-    link: files/resume.pdf  
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'bjl5029@gmail.com'
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
+    design:
+      columns: '1'
 ---
-
-## 소개
-
-전북대학교에서 컴퓨터공학과 빅데이터 및 AI를 전공하고 있으며, 주식회사 디프리에서 일하고 있습니다.
