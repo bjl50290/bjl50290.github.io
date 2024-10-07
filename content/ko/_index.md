@@ -18,42 +18,31 @@ sections:
         - title: 주식회사 디프리
           date_start: '2024-01-01'
           description: |
-            주식회사 디프리에서 소프트웨어 엔지니어로 근무하고 있습니다.
+            소프트웨어 엔지니어
 
         - title: 주식회사 하이컨시
           date_start: '2020-01-01'
           date_end: '2021-03-01'
+          description: |
+            저작권팀
 
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">백정렬의 관심사 및 진로</span>
-      text: 관심있는 것들을 나열해봤습니다. <br><br><br><br>
+      title: 제 몇가지 다른 취미와 관심사는
       items:
-        - name: 인공지능(AI)
-          icon: robot
+        - name: 축구
+          icon: running
           icon_pack: fas
-          description: <span style="font-size:90%">정보 마이닝, 데이터 마이닝, LLM과 같이 우리 사회를 변화시킬 기술에 관심이 많습니다.</span><br><br>
-        - name: 정치/법학
-          icon: gavel
+          description: 용대FC의 영원한 LW
+        - name: 페퍼톤스
+          icon: music
           icon_pack: fas
-          description: <span style="font-size:90%">사회 현상, 정치 현상에 관심이 있습니다.</span><br><br>
-        - name: 보안/네트워크
-          icon: shield-alt
-          icon_pack: fas
-          description: <span style="font-size:90%">보안 사고, 침해 대응 등 보안 기술에 관심이 많습니다.</span><br><br>
-        - name: 공연
-          icon: theater-masks
-          icon_pack: fas
-          description: <span style="font-size:90%">공연을 보는 것을 좋아합니다.</span><br><br>
-        - name: 안정적인 삶
-          icon: home
-          icon_pack: fas
-          description: <span style="font-size:90%">안정적인 삶을 지향합니다.</span><br><br>
-        - name: 주식/투자
+          description: 인생은 Superfantastic
+        - name: 투자
           icon: chart-line
           icon_pack: fas
-          description: <span style="font-size:90%">투자를 통한 자산증식에 관심이 많습니다.</span><br><br>
+          description: 인생을 날로 먹고 싶어요
 
   - block: collection
     content:
