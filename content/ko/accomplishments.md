@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "5rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
