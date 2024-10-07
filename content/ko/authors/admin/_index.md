@@ -27,7 +27,11 @@ organizations:
 bio: 저를 소개하는 페이지입니다. 간단한 소개와 함께 제가 진행한 활동들을 첨부하였습니다.
 
 # Custom field for job experience
-jobs:
+widget: portfolio
+headless: true
+weight: 50
+title: 경력
+content:
   - title: 데이터사이언스 및 인공지능 관련 프로젝트 수행
     company: 주식회사 디프리
     date: '2022 - Present'
