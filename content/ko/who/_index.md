@@ -101,39 +101,17 @@ sections:
           </ul>
         </section>
 
-        <section>
-          <h2 class="section-title">Skills</h2>
-          <table class="skills-table">
-            <thead>
-              <tr>
-                <th>Skill</th>
-                <th>Proficiency</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon"> Python</td>
-                <td>80%</td>
-              </tr>
-              <tr>
-                <td><img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch Icon"> PyTorch</td>
-                <td>60%</td>
-              </tr>
-              <tr>
-                <td><img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon"> C++</td>
-                <td>40%</td>
-              </tr>
-            </tbody>
-          </table>
-        </section>
-
-        <section>
-          <h2 class="section-title">Languages</h2>
-          <ul class="language-list">
-            <li><img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_South_Korea.svg" alt="Korean Flag"> <strong>Korean</strong>: 100%</li>
-            <li><img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="US Flag"> <strong>English</strong>: 50%</li>
-          </ul>
-        </section>
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+        
+  - block: resume-languages
+    content:
+      title: Languages
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
 
     design:
       columns: '1'
