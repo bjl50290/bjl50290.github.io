@@ -68,7 +68,7 @@ email: 'bjl5029@gmail.com'
 awards:
   - title: 제6회 전주창업경진대회
     url: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mss.go.kr/common/board/Download.do%3FbcIdx%3D1052296%26cbIdx%3D250%26streFileNm%3D7bcc9bc9-542e-4d1f-b35a-7d3a94327ba6.pdf&ved=2ahUKEwjmoMztmY2JAxXN8DQHHZHQB8IQFnoECBQQAQ&usg=AOvVaw2FoNf1aGF_4iIL9w2_bOqE
-    date: '2024-08-05'
+    date: '2024-09-25'
     awarder: 전주시, 오렌지플래닛 창업재단
     summary: |
       전주시장상 수상
