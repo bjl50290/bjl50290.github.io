@@ -33,6 +33,18 @@ sections:
           </ul>
         </section>
 
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+        
+  - block: resume-languages
+    content:
+      title: Languages
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+      
   - block: features
     id: features
     content:
@@ -51,19 +63,6 @@ sections:
           icon_pack: fas
           description: 인생을 날로 먹고 싶어요
           
-
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-        
-  - block: resume-languages
-    content:
-      title: Languages
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-
     design:
       columns: '1'
 ---

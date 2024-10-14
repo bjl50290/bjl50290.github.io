@@ -104,6 +104,28 @@ awards:
     summary: |
       장려상 수상
 
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: PyTorch
+        description: ''
+        percent: 60
+        icon: devicon/pytorch
+      - name: C++
+        description: ''
+        percent: 40
+        icon: devicon/cplusplus
+
+languages:
+  - name: Korean
+    percent: 100
+  - name: English
+    percent: 50
+
 ---
 
 #### 전북대학교에서 컴퓨터공학과 빅데이터 및 AI를 전공하고 있으며,

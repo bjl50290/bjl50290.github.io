@@ -12,7 +12,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-
   - block: experience
     content:
       items:
@@ -27,71 +26,9 @@ sections:
           description: |
             저작권팀
 
-  - block: features
-    id: features
-    content:
-      title: 제 몇가지 다른 취미와 관심사는
-      items:
-        - name: 축구
-          icon: running
-          icon_pack: fas
-          description: 용대FC의 영원한 LW
-        - name: 페퍼톤스
-          icon: music
-          icon_pack: fas
-          description: 인생은 Superfantastic
-        - name: 투자
-          icon: chart-line
-          icon_pack: fas
-          description: 인생을 날로 먹고 싶어요
-
-  - block: collection
-    content:
-      id: section-1
-      title: 진로/관심사
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - blog
-    design:
-      view: compact
-      columns: '2'
-
-  - block: collection
-    content:
-      id: section-1
-      title: 진로/관심사
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - activity
-    design:
-      view: compact
-      columns: '2'
-
-  - block: collection
-    content:
-      id: section-1
-      title: 취미
-      count: 3
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - hobbies
-    design:
-      view: compact
-      columns: '2'
-
-
   - block: slider
     content:
       slides:
-
         - title: <span style="font-size:90%">TREC2024 참여</span>
           content: <span style="font-size:90%">이번 여름에 참여한 TREC2024<span style="font-size:90%">
           align: right
