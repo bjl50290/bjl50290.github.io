@@ -66,31 +66,44 @@ email: 'bjl5029@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 제6회 전주창업경진대회
+    url: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mss.go.kr/common/board/Download.do%3FbcIdx%3D1052296%26cbIdx%3D250%26streFileNm%3D7bcc9bc9-542e-4d1f-b35a-7d3a94327ba6.pdf&ved=2ahUKEwjmoMztmY2JAxXN8DQHHZHQB8IQFnoECBQQAQ&usg=AOvVaw2FoNf1aGF_4iIL9w2_bOqE
+    date: '2024-08-05'
+    awarder: 전주시, 오렌지플래닛 창업재단
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      전주시장상 수상
+
+  - title: 제2회 재난안전데이터 활용 창업경진대회
+    url: https://www.mois.go.kr/synap/skin/doc.html?fn=BBS_2024050104084346001&rs=/synapFile/202409/&synapUrl=%2Fsynap%2Fskin%2Fdoc.html%3Ffn%3DBBS_2024050104084346001%26rs%3D%2FsynapFile%2F202409%2F&synapMessage=%EC%A0%95%EC%83%81
+    date: '2024-08-05'
+    awarder: 행정안전부
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      행정안전부 장관상 수상
+
+  - title: GREAT Chat Gpt 활용 아이디어 경진대회
+    date: '2024-02-02'
+    awarder: 지역선도대학육성사업단
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      장려상 수상
+
+  - title: 제1회 SW 창업 아이디어 경진대회
+    date: '2023-12-21'
+    awarder: 전북대학교
+    summary: |
+      장려상 수상
+
+  - title: 제3회 소외계층을 위한 AI활용 아이디어 공모전
+    date: '2023-12-20'
+    awarder: 교육부
+    summary: |
+      교육부 장관상 수상
+
+  - title: 모바일 앱 개발 해커톤
+    date: '2023-08-30'
+    awarder: 전남대학교
+    summary: |
+      장려상 수상
+
 ---
 
 #### 전북대학교에서 컴퓨터공학과 빅데이터 및 AI를 전공하고 있으며,
