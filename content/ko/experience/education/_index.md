@@ -1,33 +1,42 @@
 ---
-title: Education
-type: "landing"
+title: My page
+type: landing
 
 sections:
   - block: experience
     content:
-      title: Education
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 전북대학교 재학
-          date_start: '2020-03-01'
-          description: |
-            전북대학교 컴퓨터인공지능학부(it정보공학과)
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-        - title: 데이터 사이언스 부트캠프
-          date_start: '2022-08-01'
-          date_end: '2023-01-01'
-          description: |
-            Euclidsoft Co., Ltd.
-
-        - title: 육군훈련소
-          date_start: '2020-03-02'
-          date_end: '2021-09-01'
-          description: |
-            육군훈련소 수료 및 포병 만기제대
-            
-        - title: 대전 가오고등학교
-          date_start: '2016-03-01'
-          date_end: '2019-01-01'
-          description: |
-            대전 가오고등학교 졸업
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
-å
