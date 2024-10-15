@@ -1,27 +1,42 @@
 ---
-title: "소개 및 연혁"
-description: "대학생활동안의 연혁을 소개합니다."
-type: "landing"
+title: Education
+type: landing
 
 sections:
   - block: experience
     content:
-      title: 활동 및 연혁
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장
-          date_start: '2023-12-01'
-          description: |
-            전북대학교 컴퓨터인공지능학부 과동아리 코알라 회장직을 맡고있습니다.
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-        - title: 전북대학교 컴퓨터인공지능학부 정보마이닝 연구실 학부연구생
-          date_start: '2024-03-02'
-          description: |
-            전북대학교 컴퓨터인공지능학부 정보마이닝 연구실에서 학부연구활동을 진행중입니다.
-
-        - title: 전북대학교 인공지능동아리 JBIG 운영진
-          date_start: '2024-02-01'
-          date_end: '2024-08-31'
-          description: |
-            전북대학교 중앙동아리 JBIG의 운영진을 맡았었습니다.
-
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
