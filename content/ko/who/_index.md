@@ -1,17 +1,16 @@
 ---
-title: Baek Jeong Ryeol
+title: Who
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Baek Jeong Ryeol
-      subtitle: Student and Software Engineer
+      title: 백정렬
+      subtitle: 학생 / 소프트웨어 엔지니어
       text: |
         <section>
           <h2 class="section-title">Biography</h2>
           <p class="bio-text">
-            <img class="icon" src="assets/media/jbnu_logo.png" alt="University Logo"> 
             I am currently studying <strong>Computer Science and Artificial Intelligence</strong> at <strong>Jeonbuk National University</strong> and working at <strong>DPRE Co., Ltd.</strong>.
           </p>
           <p class="bio-text">I have a strong interest in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, as well as investment strategies using alternative data.</p>
@@ -21,11 +20,9 @@ sections:
           <h2 class="section-title">Interests</h2>
           <ul class="interest-list">
             <li>
-              <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Data_Science.png/240px-Data_Science.png" alt="Data Science Icon">
               <strong>Data Science</strong>, <strong>ML</strong>, <strong>AI</strong>
             </li>
             <li>
-              <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Line_chart_icon.svg/1024px-Line_chart_icon.svg.png" alt="Investment Icon">
               Investment Strategies Using Alternative Data
             </li>
           </ul>
