@@ -8,12 +8,10 @@ sections:
       title: Baek Jeong Ryeol
       subtitle: Student and Software Engineer
       text: |
-
-
         <section>
           <h2 class="section-title">Biography</h2>
           <p class="bio-text">
-            <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_JBNU.png" alt="University Logo"> 
+            <img class="icon" src="assets/media/jbnu_logo.png" alt="University Logo"> 
             I am currently studying <strong>Computer Science and Artificial Intelligence</strong> at <strong>Jeonbuk National University</strong> and working at <strong>DPRE Co., Ltd.</strong>.
           </p>
           <p class="bio-text">I have a strong interest in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, as well as investment strategies using alternative data.</p>
